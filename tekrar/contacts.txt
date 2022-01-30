@@ -1,0 +1,2 @@
+{"customerNum": 100, "name": "Elif", "surname": "Ak", "phone": "123456", "balance": 10000}
+{"customerNum": 101, "name": "Ali", "surname": "Al", "phone": "123456", "balance": 20000}

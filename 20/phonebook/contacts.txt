@@ -1,0 +1,8 @@
+
+[
+{"id": 1001, "name": "Zeynep", "surname": "Yaman", "phone": "123454", "address": "İstanbul"},
+{"id": 1002, "name": "Pakize", "surname": "Ünal","phone": "123454", "address": "Ankara"},
+{"id": 1003, "name": "Nilüfer", "surname": "Kargı","phone": "65445", "address": "Ankara"},
+{"id": 1004, "name": "Serdar", "surname": "Çadır","phone": "234234", "address": "Samsun"},
+{'id': 1005, 'name': 'Yusuf', 'surname': 'Ak', 'phone': '12321312', 'address': 'Adana'},
+]
